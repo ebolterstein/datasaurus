@@ -1,4 +1,4 @@
-# Hackathon Template Github
+# Data science workshop
 
 **2024-11-19**  **-** **2024-11-20** 
 
