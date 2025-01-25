@@ -1,6 +1,6 @@
 # Data science workshop
 
-**2024-11-19**  **-** **2024-11-20** 
+**1/24/2025**  **-** **1/25/2025** 
 
 Github Pages based template for hackathons
 
